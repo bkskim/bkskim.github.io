@@ -1,38 +1,12 @@
 # Basic
-title: Robotkang
-subtitle: 自留地
-description: 欢迎来到我的个人网站~
+title: Brian Kim
+subtitle: "Today is the youngest you will ever be. Live like it."
+description: Welcome to my website
 # 头像里面的标题
 avatarTitle: RobotKang
 # 头像里面的描述
 avatarDesc: 机器人赛事/嵌入式
-url: "https://robotkang.cc"
-
-# Comment
-comment:
-    provider: duoshuo
-    duoshuo:
-     short_name: robotkang
-
-# Social
-social:
-    weibo: 123456789
-    weixing: kang1390305137 
-    github: MengZheK
-    # twitter: 
-    mail: robotkang@foxmail.com
-    csdn: robotkang
-
-
-# 《----------------- 上面的信息修改成你自己的 ---------------------------》
-#
-#
-#  _post/ 下的文章更换成你自己的文章
-#  帮忙star一下，感谢~😆 地址： https://github.com/MengZheK/kangblog.github.io
-#
-#
-# 《--------------- 下面的信息可以自行选择是否修改 ------------------------》
-
+url: "https://bkskim.github.io"
 
 permalink: /:year/:month/:title/
 # Format
@@ -51,15 +25,15 @@ cover_color:
 
 # The blog button should not be removed.
 blog_button:
-    title: 博客主页
+    title: Blog
 
 # Navigation buttons in the front page.s
 nav:
-    - {title: 所有文章, description: archive, url: '/archive'}   
-    - {title: 标签, description: tags, url: '/tags'}   
-    - {title: 留言, description: liuyan, url: '/liuyan'}
-    - {title: 资源, description: ziyuan, url: '/ziyuan'}
-    - {title: 关于我, description: about, url: '/about'}
+    - {title: Archive, description: archive, url: '/archive'}   
+    - {title: Tags, description: tags, url: '/tags'}   
+    - {title: Liuyan, description: liuyan, url: '/liuyan'}
+    - {title: Ziyuan, description: ziyuan, url: '/ziyuan'}
+    - {title: About, description: about, url: '/about'}
 
           
     
