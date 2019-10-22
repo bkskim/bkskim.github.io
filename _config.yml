@@ -30,9 +30,7 @@ cover_color:
 # Navigation buttons in the front pages
 nav:
     - {title: Blog, description: blog, url: 'https://medium.com/@bkskim'}   
-    - {title: Tags, description: tags, url: '/tags'}   
-    - {title: Liuyan, description: liuyan, url: '/liuyan'}
-    - {title: Ziyuan, description: ziyuan, url: '/ziyuan'}
+    - {title: Projects, description: tags, url: '/tags'}   
     - {title: About, description: about, url: '/about'}
 
           
