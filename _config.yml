@@ -1,3 +1,15 @@
 theme: jekyll-theme-cayman
 title: Welcome to Brian Kim's Website!
 description: View BK's latest projects and blogs here
+
+# Site Author
+author:
+  name             : "Brian Kim"
+  avatar           : "profile.png"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
+  email            :
+  facebook         :
+  github           : "academicpages"
+  instagram        :
+  linkedin         :
